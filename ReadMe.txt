@@ -1,7 +1,1 @@
-<!DOCTYPE html>\
-<html>\
-<body>\
-<h1>Hello World</h1>\
-<p>I'm hosted with GitHub Pages.</p>\
-</body>\
-</html>}
+This is an analysis of F1 tracks for the 2023 season
